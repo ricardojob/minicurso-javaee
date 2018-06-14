@@ -1,0 +1,21 @@
+.DS_Store
+Dockerfile
+
+# Maven
+/target/
+**/target/
+**/target/
+
+# Netbeans
+/nbproject
+nb-configuration.xml
+
+# Eclipse
+**/.settings
+**/.project
+**/.classpath
+
+# IDEA
+**/target
+.idea/**
+**/*.iml
